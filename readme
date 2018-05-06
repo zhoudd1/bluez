@@ -1,3 +1,4 @@
+1) bluez-5.18
 每个库里都有个config.sh脚本，逐个编译并且make install可得到安装文件
 
 具体细节描述参考如下wiki
