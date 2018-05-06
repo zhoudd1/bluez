@@ -1,3 +1,7 @@
+每个库里都有个config.sh脚本，逐个编译并且make install可得到安装文件
+
+具体细节描述参考如下wiki
+
 http://wiki.beyondlogic.org/index.php?title=Cross_Compiling_BlueZ_Bluetooth_tools_for_ARM
 
 http://www.cnblogs.com/dong1/p/8271385.html
